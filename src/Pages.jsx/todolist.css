@@ -1,0 +1,9 @@
+.Todolist{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    padding: 15px;
+}
